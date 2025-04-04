@@ -1,5 +1,6 @@
-![Bike Store](bike.png)
 # 🚲 SQL Bike Store Analysis
+
+![Bike Store](bike.png)
 
 ## 📌 Project Overview  
 This project focuses on utilizing **SQL** to analyze and extract valuable insights from a dataset based on a bike store's operations. The goal was to explore the data by executing a series of queries that address key business questions, calculate important KPIs, and uncover insights to optimize store performance.
