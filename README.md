@@ -1,3 +1,8 @@
+![Uploading ChatGPT Image Apr 4, 2025, 11_22_50 PM.png…]()
+
+
+
+
 # 🚲 SQL Bike Store Analysis
 
 ## 📌 Project Overview  
