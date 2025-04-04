@@ -1,5 +1,4 @@
-![Bike Store](ChatGPT Image Apr 4, 2025, 11_22_50 PM.png)
-
+bike.png
 # 🚲 SQL Bike Store Analysis
 
 ## 📌 Project Overview  
