@@ -1,4 +1,4 @@
-bike.png
+![Bike Store](bike.png)
 # 🚲 SQL Bike Store Analysis
 
 ## 📌 Project Overview  
